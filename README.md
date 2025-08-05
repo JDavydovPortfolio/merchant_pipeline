@@ -2,7 +2,8 @@
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
 ![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515)
- ![Platform](https://img.shields.io/badge/platform-Windows-lightgrey.svg)                                    ![Offline](https://img.shields.io/badge/processing-100%25%20Offline-brightgreen.svg)
+
+![Platform](https://img.shields.io/badge/platform-Windows-lightgrey.svg) ![Offline](https://img.shields.io/badge/processing-100%25%20Offline-brightgreen.svg)
 A comprehensive, offline-first document processing pipeline with premium GUI for automated merchant submission review and CRM integration.
 
 ## 📑 Table of Contents

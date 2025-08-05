@@ -78,7 +78,7 @@ A comprehensive, offline-first document processing pipeline with premium GUI for
    ```
 3. In a new terminal, pull a model:
    ```bash
-   ollama pull phi
+   ollama pull phi3:mini
    ```
 
 ### 4. Clone and Setup Project
@@ -294,6 +294,5 @@ This project is provided as a demonstration of modern document processing capabi
 
 ---
 
-**Built with ❤️ using Python, PySide6, Tesseract OCR, and Ollama**
+# Offline-first • Secure • Professional • Ready for Business
 
-*Offline-first • Secure • Professional • Ready for Business*

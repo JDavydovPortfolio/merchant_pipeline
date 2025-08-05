@@ -1,6 +1,25 @@
-# Merchant Document Processing Suite
+# MerchantPulse Pipeline
+
+![Python](https://img.shields.io/badge/python-3.9+-blue.svg) ![License](https://img.shields.io/badge/license-Demo-green.svg) ![Platform](https://img.shields.io/badge/platform-Windows-lightgrey.svg) ![Offline](https://img.shields.io/badge/processing-100%25%20Offline-brightgreen.svg)
 
 A comprehensive, offline-first document processing pipeline with premium GUI for automated merchant submission review and CRM integration.
+
+## 📑 Table of Contents
+
+- [Features](#-features)
+- [Requirements](#-requirements)
+- [Installation](#️-installation)
+- [Quick Start](#-quick-start)
+- [Project Structure](#-project-structure)
+- [Usage](#-usage)
+- [Configuration](#️-configuration)
+- [Troubleshooting](#-troubleshooting)
+- [Performance Metrics](#-performance-metrics)
+- [Security & Privacy](#-security--privacy)
+- [Advanced Usage](#-advanced-usage)
+- [Business Benefits](#-business-benefits)
+- [Support](#-support)
+- [License](#-license)
 
 ## 🚀 Features
 
@@ -277,5 +296,4 @@ This project is provided as a demonstration of modern document processing capabi
 
 **Built with ❤️ using Python, PySide6, Tesseract OCR, and Ollama**
 
-*Offline-first • Secure • Professional • Ready for Business*#   M e r c h a n t P u l s e - P i p e l i n e  
- 
+*Offline-first • Secure • Professional • Ready for Business*

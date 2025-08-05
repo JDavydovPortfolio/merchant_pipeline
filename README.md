@@ -277,4 +277,5 @@ This project is provided as a demonstration of modern document processing capabi
 
 **Built with ❤️ using Python, PySide6, Tesseract OCR, and Ollama**
 
-*Offline-first • Secure • Professional • Ready for Business*
+*Offline-first • Secure • Professional • Ready for Business*#   M e r c h a n t P u l s e - P i p e l i n e  
+ 

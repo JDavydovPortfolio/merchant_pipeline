@@ -1,0 +1,9 @@
+2025-07-30 09:15:23,150 - src.pipeline - INFO - Starting processing for poli sci 384 W final.pdf
+2025-07-30 09:15:23,150 - src.pipeline - DEBUG - Step 1: OCR extraction for poli sci 384 W final.pdf
+2025-07-30 09:15:23,153 - src.pipeline - ERROR - Failed to process poli sci 384 W final.pdf: Unable to get page count. Is poppler installed and in PATH?
+2025-07-30 09:18:10,935 - src.pipeline - INFO - Starting processing for Resume-Joshua-Davydov-Drive-IT (2).pdf
+2025-07-30 09:18:10,935 - src.pipeline - DEBUG - Step 1: OCR extraction for Resume-Joshua-Davydov-Drive-IT (2).pdf
+2025-07-30 09:18:10,935 - src.pipeline - ERROR - Failed to process Resume-Joshua-Davydov-Drive-IT (2).pdf: Unable to get page count. Is poppler installed and in PATH?
+2025-07-30 09:24:51,270 - src.pipeline - INFO - Starting processing for Resume-Joshua-Davydov-Drive-IT (2).pdf
+2025-07-30 09:24:51,270 - src.pipeline - DEBUG - Step 1: OCR extraction for Resume-Joshua-Davydov-Drive-IT (2).pdf
+2025-07-30 09:24:51,284 - src.pipeline - ERROR - Failed to process Resume-Joshua-Davydov-Drive-IT (2).pdf: Unable to get page count. Is poppler installed and in PATH?

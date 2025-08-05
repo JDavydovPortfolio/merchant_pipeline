@@ -1,0 +1,30 @@
+# Core document processing
+pytesseract>=0.3.10
+pdf2image>=1.16.3
+opencv-python>=4.8.1.78
+Pillow>=10.1.0
+requests>=2.31.0
+numpy>=1.26.0
+
+# LLM Integration
+--find-links https://download.pytorch.org/whl/torch_stable.html
+torch>=2.0.0
+transformers>=4.36.0
+sentence-transformers>=2.2.2
+protobuf>=4.25.1  # Required for transformers
+tokenizers>=0.15.0  # Pre-built wheel
+safetensors>=0.4.1  # Required for model loading
+
+# Premium GUI components
+PySide6>=6.6.0
+PySide6-Addons>=6.6.0
+qtawesome>=1.2.3
+qdarkstyle>=3.2.3
+pyqtgraph>=0.13.3
+
+# Additional utilities
+python-dotenv>=1.0.0
+pyinstaller>=6.0.0
+tqdm>=4.66.1  # For progress bars
+colorama>=0.4.6  # For colored terminal output
+pandas>=2.1.0  # For CSV export

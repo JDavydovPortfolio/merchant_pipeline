@@ -1,0 +1,351 @@
+2025-07-28 18:45:04,475 - qdarkstyle - INFO - QSS file successfully loaded.
+2025-07-28 18:45:04,475 - qdarkstyle - INFO - Found application patches to be applied.
+2025-07-28 19:08:36,953 - qdarkstyle - INFO - QSS file successfully loaded.
+2025-07-28 19:08:36,953 - qdarkstyle - INFO - Found application patches to be applied.
+2025-07-28 19:08:37,892 - huggingface_hub.file_download - WARNING - Xet Storage is enabled for this repo, but the 'hf_xet' package is not installed. Falling back to regular HTTP download. For better performance, install the package with: `pip install huggingface_hub[hf_xet]` or `pip install hf_xet`
+2025-07-28 19:08:37,897 - huggingface_hub.file_download - WARNING - Xet Storage is enabled for this repo, but the 'hf_xet' package is not installed. Falling back to regular HTTP download. For better performance, install the package with: `pip install huggingface_hub[hf_xet]` or `pip install hf_xet`
+2025-07-28 19:09:58,592 - src.llm - INFO - Initialized LLM with model: microsoft/phi-2
+2025-07-28 19:09:59,859 - src.ocr - ERROR - Tesseract OCR test failed: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-07-28 19:10:01,118 - src.llm - INFO - LLM connection test successful
+2025-07-28 22:19:34,381 - qdarkstyle - INFO - QSS file successfully loaded.
+2025-07-28 22:19:34,381 - qdarkstyle - INFO - Found application patches to be applied.
+2025-07-28 22:19:35,311 - src.llm - INFO - Initialized LLM with model: microsoft/phi-2
+2025-07-28 22:19:37,083 - src.ocr - ERROR - Tesseract OCR test failed: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-07-28 22:21:03,670 - src.llm - INFO - LLM connection test successful
+2025-07-30 09:09:11,405 INFO     qdarkstyle: QSS file successfully loaded.
+2025-07-30 09:09:11,405 INFO     qdarkstyle: Found application patches to be applied.
+2025-07-30 09:09:12,705 INFO     src.llm: Initialized LLM with model: microsoft/phi-2
+2025-07-30 09:09:13,979 ERROR    src.ocr: Tesseract OCR test failed: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-07-30 09:09:19,237 INFO     src.llm: LLM connection test successful
+2025-07-30 09:10:14,386 INFO     qdarkstyle: QSS file successfully loaded.
+2025-07-30 09:10:14,387 INFO     qdarkstyle: Found application patches to be applied.
+2025-07-30 09:10:15,360 INFO     src.llm: Initialized LLM with model: microsoft/phi-2
+2025-07-30 09:10:16,718 ERROR    src.ocr: Tesseract OCR test failed: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-07-30 09:10:35,953 INFO     qdarkstyle: QSS file successfully loaded.
+2025-07-30 09:10:35,953 INFO     qdarkstyle: Found application patches to be applied.
+2025-07-30 09:10:37,070 INFO     src.llm: Initialized LLM with model: microsoft/phi-2
+2025-07-30 09:10:38,528 ERROR    src.ocr: Tesseract OCR test failed: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-07-30 09:11:18,785 INFO     qdarkstyle: QSS file successfully loaded.
+2025-07-30 09:11:18,786 INFO     qdarkstyle: Found application patches to be applied.
+2025-07-30 09:11:19,973 INFO     src.llm: Initialized LLM with model: microsoft/phi-2
+2025-07-30 09:11:20,625 INFO     qdarkstyle: QSS file successfully loaded.
+2025-07-30 09:11:20,626 INFO     qdarkstyle: Found application patches to be applied.
+2025-07-30 09:11:21,410 ERROR    src.ocr: Tesseract OCR test failed: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-07-30 09:11:22,038 INFO     src.llm: Initialized LLM with model: microsoft/phi-2
+2025-07-30 09:11:23,731 ERROR    src.ocr: Tesseract OCR test failed: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-07-30 09:13:11,347 INFO     src.llm: LLM connection test successful
+2025-07-30 09:13:28,628 INFO     src.llm: LLM connection test successful
+2025-07-30 09:13:59,865 INFO     src.llm: LLM connection test successful
+2025-07-30 09:14:56,803 ERROR    src.ocr: Tesseract OCR test failed: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-07-30 09:14:58,116 INFO     src.llm: LLM connection test successful
+2025-07-30 09:15:23,150 INFO     src.pipeline: Starting processing for poli sci 384 W final.pdf
+2025-07-30 09:15:23,150 DEBUG    src.pipeline: Step 1: OCR extraction for poli sci 384 W final.pdf
+2025-07-30 09:15:23,153 ERROR    src.ocr: PDF extraction error: Unable to get page count. Is poppler installed and in PATH?
+2025-07-30 09:15:23,153 ERROR    src.ocr: Failed to extract text from C:\Users\josh\Desktop\poli sci 384 W final.pdf: Unable to get page count. Is poppler installed and in PATH?
+2025-07-30 09:15:23,153 ERROR    src.pipeline: Failed to process poli sci 384 W final.pdf: Unable to get page count. Is poppler installed and in PATH?
+2025-07-30 09:15:34,436 ERROR    src.ocr: Tesseract OCR test failed: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-07-30 09:16:49,470 INFO     src.llm: LLM connection test successful
+2025-07-30 09:18:10,935 INFO     src.pipeline: Starting processing for Resume-Joshua-Davydov-Drive-IT (2).pdf
+2025-07-30 09:18:10,935 DEBUG    src.pipeline: Step 1: OCR extraction for Resume-Joshua-Davydov-Drive-IT (2).pdf
+2025-07-30 09:18:10,935 ERROR    src.ocr: PDF extraction error: Unable to get page count. Is poppler installed and in PATH?
+2025-07-30 09:18:10,935 ERROR    src.ocr: Failed to extract text from C:\Users\josh\Downloads\Resume-Joshua-Davydov-Drive-IT (2).pdf: Unable to get page count. Is poppler installed and in PATH?
+2025-07-30 09:18:10,935 ERROR    src.pipeline: Failed to process Resume-Joshua-Davydov-Drive-IT (2).pdf: Unable to get page count. Is poppler installed and in PATH?
+2025-07-30 09:18:13,815 ERROR    src.ocr: Tesseract OCR test failed: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-07-30 09:18:15,434 INFO     src.llm: LLM connection test successful
+2025-07-30 09:18:15,481 ERROR    src.ocr: Tesseract OCR test failed: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-07-30 09:18:43,233 INFO     src.llm: LLM connection test successful
+2025-07-30 09:24:39,037 ERROR    src.ocr: Tesseract OCR test failed: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-07-30 09:24:40,841 INFO     src.llm: LLM connection test successful
+2025-07-30 09:24:51,270 INFO     src.pipeline: Starting processing for Resume-Joshua-Davydov-Drive-IT (2).pdf
+2025-07-30 09:24:51,270 DEBUG    src.pipeline: Step 1: OCR extraction for Resume-Joshua-Davydov-Drive-IT (2).pdf
+2025-07-30 09:24:51,270 ERROR    src.ocr: PDF extraction error: Unable to get page count. Is poppler installed and in PATH?
+2025-07-30 09:24:51,270 ERROR    src.ocr: Failed to extract text from C:\Users\josh\Downloads\Resume-Joshua-Davydov-Drive-IT (2).pdf: Unable to get page count. Is poppler installed and in PATH?
+2025-07-30 09:24:51,284 ERROR    src.pipeline: Failed to process Resume-Joshua-Davydov-Drive-IT (2).pdf: Unable to get page count. Is poppler installed and in PATH?
+2025-07-30 21:34:15,121 ERROR    root: Import Error: No module named 'PySide6'
+2025-07-30 21:39:56,043 ERROR    root: Import Error: No module named 'PySide6'
+2025-07-30 23:12:31,294 ERROR    root: Import Error: No module named 'PySide6'
+2025-07-30 23:12:41,682 ERROR    root: Import Error: No module named 'PySide6'
+2025-07-30 23:14:45,614 ERROR    root: Import Error: No module named 'PySide6'
+2025-07-30 23:17:48,218 ERROR    root: Import Error: No module named 'PySide6'
+2025-07-30 23:38:44,944 ERROR    root: Import Error: No module named 'PySide6'
+2025-07-30 23:40:08,383 ERROR    root: Import Error: No module named 'PySide6'
+2025-07-30 23:40:50,977 ERROR    root: Import Error: No module named 'PySide6'
+2025-07-30 23:42:01,449 ERROR    root: Import Error: No module named 'PySide6'
+2025-07-31 01:06:04,362 ERROR    root: Import Error: No module named 'PySide6'
+2025-07-31 04:20:53,025 ERROR    root: Import Error: No module named 'PySide6'
+2025-07-31 04:26:08,124 INFO     qdarkstyle: QSS file successfully loaded.
+2025-07-31 04:26:08,124 INFO     qdarkstyle: Found application patches to be applied.
+2025-07-31 05:56:00,879 INFO     qdarkstyle: QSS file successfully loaded.
+2025-07-31 05:56:00,879 INFO     qdarkstyle: Found application patches to be applied.
+2025-07-31 06:25:52,570 INFO     qdarkstyle: QSS file successfully loaded.
+2025-07-31 06:25:52,571 INFO     qdarkstyle: Found application patches to be applied.
+2025-08-01 00:16:47,049 INFO     qdarkstyle: QSS file successfully loaded.
+2025-08-01 00:16:47,049 INFO     qdarkstyle: Found application patches to be applied.
+2025-08-01 00:16:51,538 WARNING  src.llm: Could not connect to LM Studio: HTTPConnectionPool(host='localhost', port=1234): Max retries exceeded with url: /v1/models (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001367F9BEB10>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2025-08-01 00:16:51,538 INFO     src.llm: Initialized LLM with provider: lm_studio
+2025-08-01 00:16:53,806 INFO     src.llm_detector: Detecting available LLM providers...
+2025-08-01 00:16:57,934 INFO     src.llm_detector: ❌ Ollama not available
+2025-08-01 00:17:02,084 INFO     src.llm_detector: ❌ LM Studio not available
+2025-08-01 00:17:06,237 INFO     src.llm_detector: ❌ LM Studio CI not available
+2025-08-01 00:17:10,358 INFO     src.llm_detector: ❌ llama.cpp not available
+2025-08-01 00:17:10,378 ERROR    src.ocr: Tesseract OCR test failed: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-01 00:17:14,493 ERROR    src.llm: LM Studio API call failed: HTTPConnectionPool(host='localhost', port=1234): Max retries exceeded with url: /v1/chat/completions (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001367F9B49E0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2025-08-01 00:17:14,493 ERROR    src.llm: LLM connection test failed - no response from lm_studio
+2025-08-01 00:17:55,136 INFO     src.llm_detector: Detecting available LLM providers...
+2025-08-01 00:17:59,208 INFO     src.llm_detector: ❌ Ollama not available
+2025-08-01 00:18:03,292 INFO     src.llm_detector: ❌ LM Studio not available
+2025-08-01 00:18:07,373 INFO     src.llm_detector: ❌ LM Studio CI not available
+2025-08-01 00:18:11,444 INFO     src.llm_detector: ❌ llama.cpp not available
+2025-08-01 00:18:11,648 INFO     src.llm_detector: Detecting available LLM providers...
+2025-08-01 00:18:15,753 INFO     src.llm_detector: ❌ Ollama not available
+2025-08-01 00:18:19,861 INFO     src.llm_detector: ❌ LM Studio not available
+2025-08-01 00:18:23,993 INFO     src.llm_detector: ❌ LM Studio CI not available
+2025-08-01 00:18:28,117 INFO     src.llm_detector: ❌ llama.cpp not available
+2025-08-01 00:23:34,789 INFO     src.llm_detector: Detecting available LLM providers...
+2025-08-01 00:23:38,918 INFO     src.llm_detector: ❌ Ollama not available
+2025-08-01 00:23:43,015 INFO     src.llm_detector: ❌ LM Studio not available
+2025-08-01 00:23:47,121 INFO     src.llm_detector: ❌ LM Studio CI not available
+2025-08-01 00:23:51,227 INFO     src.llm_detector: ❌ llama.cpp not available
+2025-08-01 00:24:03,391 INFO     src.pipeline: Starting processing for Joshua Davydov Resume.pdf
+2025-08-01 00:24:03,391 DEBUG    src.pipeline: Step 1: OCR extraction for Joshua Davydov Resume.pdf
+2025-08-01 00:24:03,709 ERROR    src.ocr: PDF extraction error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-01 00:24:03,709 ERROR    src.ocr: Failed to extract text from C:\Users\josh\Downloads\Joshua Davydov Resume.pdf: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-01 00:24:03,709 ERROR    src.pipeline: Failed to process Joshua Davydov Resume.pdf: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-01 00:37:59,990 INFO     src.pipeline: Starting processing for Joshua Davydov Resume.pdf
+2025-08-01 00:37:59,990 DEBUG    src.pipeline: Step 1: OCR extraction for Joshua Davydov Resume.pdf
+2025-08-01 00:38:00,331 ERROR    src.ocr: PDF extraction error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-01 00:38:00,331 ERROR    src.ocr: Failed to extract text from C:\Users\josh\Downloads\Joshua Davydov Resume.pdf: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-01 00:38:00,331 ERROR    src.pipeline: Failed to process Joshua Davydov Resume.pdf: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-01 01:30:50,690 INFO     qdarkstyle: QSS file successfully loaded.
+2025-08-01 01:30:50,690 INFO     qdarkstyle: Found application patches to be applied.
+2025-08-01 01:30:55,128 WARNING  src.llm: Could not connect to LM Studio: HTTPConnectionPool(host='localhost', port=1234): Max retries exceeded with url: /v1/models (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002D2D1A6B3B0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2025-08-01 01:30:55,128 INFO     src.llm: Initialized LLM with provider: lm_studio
+2025-08-01 01:30:58,128 INFO     src.llm_detector: Detecting available LLM providers...
+2025-08-01 01:31:02,237 INFO     src.llm_detector: ❌ Ollama not available
+2025-08-01 01:31:06,319 INFO     src.llm_detector: ❌ LM Studio not available
+2025-08-01 01:31:10,432 INFO     src.llm_detector: ❌ LM Studio CI not available
+2025-08-01 01:31:14,532 INFO     src.llm_detector: ❌ llama.cpp not available
+2025-08-01 01:31:14,556 INFO     src.ocr: Tesseract OCR version: 5.4.0.20240606
+2025-08-01 01:31:18,622 ERROR    src.llm: LM Studio API call failed: HTTPConnectionPool(host='localhost', port=1234): Max retries exceeded with url: /v1/chat/completions (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002D2D1A64F80>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2025-08-01 01:31:18,624 ERROR    src.llm: LLM connection test failed - no response from lm_studio
+2025-08-01 08:00:42,002 INFO     qdarkstyle: QSS file successfully loaded.
+2025-08-01 08:00:42,002 INFO     qdarkstyle: Found application patches to be applied.
+2025-08-01 08:00:46,475 WARNING  src.llm: Could not connect to LM Studio: HTTPConnectionPool(host='localhost', port=1234): Max retries exceeded with url: /v1/models (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001C1DFD54BC0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2025-08-01 08:00:46,475 INFO     src.llm: Initialized LLM with provider: lm_studio
+2025-08-01 08:00:48,315 INFO     llm_detector: Detecting available LLM providers...
+2025-08-01 08:00:52,436 INFO     llm_detector: ❌ Ollama not available
+2025-08-01 08:00:56,579 INFO     llm_detector: ❌ LM Studio not available
+2025-08-01 08:01:00,709 INFO     llm_detector: ❌ LM Studio CI not available
+2025-08-01 08:01:04,789 INFO     llm_detector: ❌ llama.cpp not available
+2025-08-01 08:01:04,813 INFO     src.ocr: Tesseract OCR version: 5.4.0.20240606
+2025-08-01 08:01:08,861 ERROR    src.llm: LM Studio API call failed: HTTPConnectionPool(host='localhost', port=1234): Max retries exceeded with url: /v1/chat/completions (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001C1E0033C50>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2025-08-01 08:01:08,864 ERROR    src.llm: LLM connection test failed - no response from lm_studio
+2025-08-01 08:32:52,323 INFO     qdarkstyle: QSS file successfully loaded.
+2025-08-01 08:32:52,373 INFO     qdarkstyle: Found application patches to be applied.
+2025-08-01 08:32:56,490 WARNING  src.llm: Could not connect to LM Studio: HTTPConnectionPool(host='localhost', port=1234): Max retries exceeded with url: /v1/models (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001CADCD5D610>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2025-08-01 08:32:56,490 INFO     src.llm: Initialized LLM with provider: lm_studio
+2025-08-01 08:32:57,005 INFO     src.llm_detector: Detecting available LLM providers...
+2025-08-01 08:33:01,103 INFO     src.llm_detector: ❌ Ollama not available
+2025-08-01 08:33:05,201 INFO     src.llm_detector: ❌ LM Studio not available
+2025-08-01 08:33:09,284 INFO     src.llm_detector: ❌ LM Studio CI not available
+2025-08-01 08:33:13,398 INFO     src.llm_detector: ❌ llama.cpp not available
+2025-08-01 08:33:13,415 INFO     src.ocr: Tesseract OCR version: 5.4.0.20240606
+2025-08-01 08:33:17,498 ERROR    src.llm: LM Studio API call failed: HTTPConnectionPool(host='localhost', port=1234): Max retries exceeded with url: /v1/chat/completions (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001CADCD19190>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2025-08-01 08:33:17,498 ERROR    src.llm: LLM connection test failed - no response from lm_studio
+2025-08-01 08:35:18,833 INFO     qdarkstyle: QSS file successfully loaded.
+2025-08-01 08:35:18,865 INFO     qdarkstyle: Found application patches to be applied.
+2025-08-01 08:35:23,015 WARNING  src.llm: Could not connect to LM Studio: HTTPConnectionPool(host='localhost', port=1234): Max retries exceeded with url: /v1/models (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001F816F4EA50>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2025-08-01 08:35:23,015 INFO     src.llm: Initialized LLM with provider: lm_studio
+2025-08-01 08:35:23,630 INFO     src.llm_detector: Detecting available LLM providers...
+2025-08-01 08:35:27,713 INFO     src.llm_detector: ❌ Ollama not available
+2025-08-01 08:35:31,778 INFO     src.llm_detector: ❌ LM Studio not available
+2025-08-01 08:35:35,859 INFO     src.llm_detector: ❌ LM Studio CI not available
+2025-08-01 08:35:39,976 INFO     src.llm_detector: ❌ llama.cpp not available
+2025-08-01 08:35:40,106 INFO     src.ocr: Tesseract OCR version: 5.4.0.20240606
+2025-08-01 08:35:44,189 ERROR    src.llm: LM Studio API call failed: HTTPConnectionPool(host='localhost', port=1234): Max retries exceeded with url: /v1/chat/completions (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001F816F114C0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2025-08-01 08:35:44,189 ERROR    src.llm: LLM connection test failed - no response from lm_studio
+2025-08-01 08:37:51,421 INFO     src.pipeline: Starting processing for Joshua Davydov Resume.pdf
+2025-08-01 08:37:51,421 DEBUG    src.pipeline: Step 1: OCR extraction for Joshua Davydov Resume.pdf
+2025-08-01 08:37:53,739 DEBUG    src.pipeline: Step 2: LLM parsing for Joshua Davydov Resume.pdf
+2025-08-01 08:37:57,819 ERROR    src.llm: LM Studio API call failed: HTTPConnectionPool(host='localhost', port=1234): Max retries exceeded with url: /v1/chat/completions (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001F816F4F710>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2025-08-01 08:38:01,870 ERROR    src.llm: LM Studio API call failed: HTTPConnectionPool(host='localhost', port=1234): Max retries exceeded with url: /v1/chat/completions (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001F816FECB30>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2025-08-01 08:38:05,920 ERROR    src.llm: LM Studio API call failed: HTTPConnectionPool(host='localhost', port=1234): Max retries exceeded with url: /v1/chat/completions (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001F816FEE5D0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2025-08-01 08:38:09,968 ERROR    src.llm: LM Studio API call failed: HTTPConnectionPool(host='localhost', port=1234): Max retries exceeded with url: /v1/chat/completions (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001F816FEEF00>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2025-08-01 08:38:14,036 ERROR    src.llm: LM Studio API call failed: HTTPConnectionPool(host='localhost', port=1234): Max retries exceeded with url: /v1/chat/completions (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001F816F54D70>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2025-08-01 08:38:18,101 ERROR    src.llm: LM Studio API call failed: HTTPConnectionPool(host='localhost', port=1234): Max retries exceeded with url: /v1/chat/completions (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001F816FEEA50>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2025-08-01 08:38:22,150 ERROR    src.llm: LM Studio API call failed: HTTPConnectionPool(host='localhost', port=1234): Max retries exceeded with url: /v1/chat/completions (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001F816FEE540>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2025-08-01 08:38:26,230 ERROR    src.llm: LM Studio API call failed: HTTPConnectionPool(host='localhost', port=1234): Max retries exceeded with url: /v1/chat/completions (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001F816FEC7A0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2025-08-01 08:38:30,279 ERROR    src.llm: LM Studio API call failed: HTTPConnectionPool(host='localhost', port=1234): Max retries exceeded with url: /v1/chat/completions (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001F816FEFBF0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2025-08-01 08:38:34,344 ERROR    src.llm: LM Studio API call failed: HTTPConnectionPool(host='localhost', port=1234): Max retries exceeded with url: /v1/chat/completions (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001F818984920>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2025-08-01 08:38:38,443 ERROR    src.llm: LM Studio API call failed: HTTPConnectionPool(host='localhost', port=1234): Max retries exceeded with url: /v1/chat/completions (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001F816FEF8F0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2025-08-01 08:38:42,511 ERROR    src.llm: LM Studio API call failed: HTTPConnectionPool(host='localhost', port=1234): Max retries exceeded with url: /v1/chat/completions (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001F816FEE330>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2025-08-01 08:38:46,574 ERROR    src.llm: LM Studio API call failed: HTTPConnectionPool(host='localhost', port=1234): Max retries exceeded with url: /v1/chat/completions (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001F816FEE840>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2025-08-01 08:38:50,637 ERROR    src.llm: LM Studio API call failed: HTTPConnectionPool(host='localhost', port=1234): Max retries exceeded with url: /v1/chat/completions (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001F816F4A660>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2025-08-01 08:38:50,637 INFO     src.llm: Successfully parsed document
+2025-08-01 08:38:50,637 DEBUG    src.pipeline: Step 3: Validation for Joshua Davydov Resume.pdf
+2025-08-01 08:38:50,638 INFO     src.validator: Validation completed for Joshua Davydov Resume.pdf: 4 issues found
+2025-08-01 08:38:50,639 DEBUG    src.pipeline: Step 4: CRM submission for Joshua Davydov Resume.pdf
+2025-08-01 08:38:51,870 INFO     src.pipeline: Successfully processed Joshua Davydov Resume.pdf in 60.45 seconds
+2025-08-01 08:39:01,516 INFO     src.llm_detector: Detecting available LLM providers...
+2025-08-01 08:39:05,613 INFO     src.llm_detector: ❌ Ollama not available
+2025-08-01 08:39:07,688 INFO     src.llm_detector: ✅ Detected LM Studio
+2025-08-01 08:39:09,757 INFO     src.llm_detector: ✅ Detected LM Studio CI
+2025-08-01 08:39:13,865 INFO     src.llm_detector: ❌ llama.cpp not available
+2025-08-01 08:39:20,006 INFO     src.llm: LM Studio connection successful
+2025-08-01 08:39:20,007 INFO     src.llm: Initialized LLM with provider: lm_studio
+2025-08-01 08:39:22,080 INFO     src.llm: LM Studio connection successful
+2025-08-01 08:39:22,081 INFO     src.llm: Initialized LLM with provider: lm_studio
+2025-08-01 08:39:24,135 INFO     src.llm: LM Studio connection successful
+2025-08-01 08:39:24,136 INFO     src.llm: Initialized LLM with provider: lm_studio
+2025-08-01 08:48:13,923 INFO     src.llm_detector: Detecting available LLM providers...
+2025-08-01 08:48:17,982 INFO     src.llm_detector: ❌ Ollama not available
+2025-08-01 08:48:20,053 INFO     src.llm_detector: ✅ Detected LM Studio
+2025-08-01 08:48:22,103 INFO     src.llm_detector: ✅ Detected LM Studio CI
+2025-08-01 08:48:26,165 INFO     src.llm_detector: ❌ llama.cpp not available
+2025-08-01 08:48:32,355 INFO     src.llm: LM Studio connection successful
+2025-08-01 08:48:32,355 INFO     src.llm: Initialized LLM with provider: lm_studio
+2025-08-01 08:48:34,425 INFO     src.llm: LM Studio connection successful
+2025-08-01 08:48:34,425 INFO     src.llm: Initialized LLM with provider: lm_studio
+2025-08-01 08:48:36,474 INFO     src.llm: LM Studio connection successful
+2025-08-01 08:48:36,475 INFO     src.llm: Initialized LLM with provider: lm_studio
+2025-08-01 08:48:38,520 INFO     src.llm: LM Studio connection successful
+2025-08-01 08:48:38,520 INFO     src.llm: Initialized LLM with provider: lm_studio
+2025-08-01 09:00:03,495 INFO     src.llm_detector: Detecting available LLM providers...
+2025-08-01 09:00:07,575 INFO     src.llm_detector: ❌ Ollama not available
+2025-08-01 09:00:09,629 INFO     src.llm_detector: ✅ Detected LM Studio
+2025-08-01 09:00:11,676 INFO     src.llm_detector: ✅ Detected LM Studio CI
+2025-08-01 09:00:15,738 INFO     src.llm_detector: ❌ llama.cpp not available
+2025-08-01 09:02:57,632 INFO     src.llm: LM Studio connection successful
+2025-08-01 09:02:57,633 INFO     src.llm: Initialized LLM with provider: lm_studio
+2025-08-01 09:02:57,634 INFO     src.llm_detector: Configuration saved to config.yaml
+2025-08-01 09:03:04,075 INFO     src.crm_submit: CSV summary generated: output\submission_summary_20250801_090304.csv
+2025-08-01 09:06:05,455 INFO     src.pipeline: Starting processing for Joshua Davydov Resume.pdf
+2025-08-01 09:06:05,455 DEBUG    src.pipeline: Step 1: OCR extraction for Joshua Davydov Resume.pdf
+2025-08-01 09:06:07,602 DEBUG    src.pipeline: Step 2: LLM parsing for Joshua Davydov Resume.pdf
+2025-08-01 09:06:12,329 ERROR    src.llm: LM Studio API error: 404
+2025-08-01 09:06:16,883 ERROR    src.llm: LM Studio API error: 404
+2025-08-01 09:06:21,492 ERROR    src.llm: LM Studio API error: 404
+2025-08-01 09:06:26,023 ERROR    src.llm: LM Studio API error: 404
+2025-08-01 09:06:30,838 ERROR    src.llm: LM Studio API error: 404
+2025-08-01 09:06:35,269 ERROR    src.llm: LM Studio API error: 404
+2025-08-01 09:06:40,010 ERROR    src.llm: LM Studio API error: 404
+2025-08-01 09:06:44,486 ERROR    src.llm: LM Studio API error: 404
+2025-08-01 09:06:49,036 ERROR    src.llm: LM Studio API error: 404
+2025-08-01 09:06:53,631 ERROR    src.llm: LM Studio API error: 404
+2025-08-01 09:06:58,137 ERROR    src.llm: LM Studio API error: 404
+2025-08-01 09:07:02,827 ERROR    src.llm: LM Studio API error: 404
+2025-08-01 09:07:07,310 ERROR    src.llm: LM Studio API error: 404
+2025-08-01 09:07:11,824 ERROR    src.llm: LM Studio API error: 404
+2025-08-01 09:07:11,825 INFO     src.llm: Successfully parsed document
+2025-08-01 09:07:11,825 DEBUG    src.pipeline: Step 3: Validation for Joshua Davydov Resume.pdf
+2025-08-01 09:07:11,825 INFO     src.validator: Validation completed for Joshua Davydov Resume.pdf: 4 issues found
+2025-08-01 09:07:11,826 DEBUG    src.pipeline: Step 4: CRM submission for Joshua Davydov Resume.pdf
+2025-08-01 09:07:12,568 INFO     src.pipeline: Successfully processed Joshua Davydov Resume.pdf in 67.11 seconds
+2025-08-01 09:08:11,108 INFO     src.pipeline: Starting processing for Joshua Davydov Resume.pdf
+2025-08-01 09:08:11,109 DEBUG    src.pipeline: Step 1: OCR extraction for Joshua Davydov Resume.pdf
+2025-08-01 09:08:13,227 DEBUG    src.pipeline: Step 2: LLM parsing for Joshua Davydov Resume.pdf
+2025-08-01 09:08:13,825 INFO     src.llm_detector: Detecting available LLM providers...
+2025-08-01 09:08:17,933 INFO     src.llm_detector: ❌ Ollama not available
+2025-08-01 09:08:19,179 ERROR    src.llm: LM Studio API error: 404
+2025-08-01 09:08:19,997 INFO     src.llm_detector: ✅ Detected LM Studio
+2025-08-01 09:08:22,050 INFO     src.llm_detector: ✅ Detected LM Studio CI
+2025-08-01 09:08:26,137 INFO     src.llm_detector: ❌ llama.cpp not available
+2025-08-01 09:08:26,561 ERROR    src.llm: LM Studio API error: 404
+2025-08-01 09:08:32,304 INFO     src.llm: LM Studio connection successful
+2025-08-01 09:08:32,304 INFO     src.llm: Initialized LLM with provider: lm_studio
+2025-08-01 09:08:33,809 ERROR    src.llm: LM Studio API error: 404
+2025-08-01 09:08:34,347 INFO     src.llm: LM Studio CI connection successful
+2025-08-01 09:08:34,348 INFO     src.llm: Initialized LLM with provider: lm_studio_ci
+2025-08-01 09:08:36,380 INFO     src.llm: LM Studio CI connection successful
+2025-08-01 09:08:36,380 INFO     src.llm: Initialized LLM with provider: lm_studio_ci
+2025-08-01 09:08:38,416 INFO     src.llm: LM Studio CI connection successful
+2025-08-01 09:08:38,417 INFO     src.llm: Initialized LLM with provider: lm_studio_ci
+2025-08-01 09:08:40,758 ERROR    src.llm: LM Studio API error: 404
+2025-08-01 09:08:48,045 ERROR    src.llm: LM Studio API error: 404
+2025-08-01 09:08:54,944 ERROR    src.llm: LM Studio API error: 404
+2025-08-01 09:09:01,965 ERROR    src.llm: LM Studio API error: 404
+2025-08-01 09:09:09,124 ERROR    src.llm: LM Studio API error: 404
+2025-08-01 09:09:16,381 ERROR    src.llm: LM Studio API error: 404
+2025-08-01 09:09:23,563 ERROR    src.llm: LM Studio API error: 404
+2025-08-01 09:09:31,107 ERROR    src.llm: LM Studio API error: 404
+2025-08-01 09:09:37,938 ERROR    src.llm: LM Studio API error: 404
+2025-08-01 09:09:45,231 ERROR    src.llm: LM Studio API error: 404
+2025-08-01 09:09:52,410 ERROR    src.llm: LM Studio API error: 404
+2025-08-01 09:09:52,412 INFO     src.llm: Successfully parsed document
+2025-08-01 09:09:52,412 DEBUG    src.pipeline: Step 3: Validation for Joshua Davydov Resume.pdf
+2025-08-01 09:09:52,412 INFO     src.validator: Validation completed for Joshua Davydov Resume.pdf: 4 issues found
+2025-08-01 09:09:52,413 DEBUG    src.pipeline: Step 4: CRM submission for Joshua Davydov Resume.pdf
+2025-08-01 09:09:53,521 INFO     src.pipeline: Successfully processed Joshua Davydov Resume.pdf in 102.41 seconds
+2025-08-01 09:16:11,387 ERROR    src.llm_detector: Error testing model google_gemma-3n-e2b-it on lm_studio_ci: HTTPConnectionPool(host='localhost', port=1234): Max retries exceeded with url: /v1/chat/completions (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001F818985760>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2025-08-01 09:18:07,656 INFO     src.llm_detector: Detecting available LLM providers...
+2025-08-01 09:18:11,700 INFO     src.llm_detector: ❌ Ollama not available
+2025-08-01 09:18:15,747 INFO     src.llm_detector: ❌ LM Studio not available
+2025-08-01 09:49:32,645 ERROR    root: Import Error: No module named 'PySide6'
+2025-08-04 19:41:01,967 ERROR    root: Import Error: No module named 'PySide6'
+2025-08-04 19:43:17,001 ERROR    root: Import Error: No module named 'PySide6'
+2025-08-04 19:47:15,179 INFO     qdarkstyle: QSS file successfully loaded.
+2025-08-04 19:47:15,184 INFO     qdarkstyle: Found application patches to be applied.
+2025-08-04 19:47:17,811 INFO     src.llm: LM Studio CI connection successful
+2025-08-04 19:47:17,811 INFO     src.llm: Initialized LLM with provider: lm_studio_ci
+2025-08-04 19:47:18,596 INFO     src.llm_detector: Detecting available LLM providers...
+2025-08-04 19:47:22,675 INFO     src.llm_detector: ❌ Ollama not available
+2025-08-04 19:47:24,724 INFO     src.llm_detector: ✅ Detected LM Studio
+2025-08-04 19:47:26,768 INFO     src.llm_detector: ✅ Detected LM Studio CI
+2025-08-04 19:47:30,861 INFO     src.llm_detector: ❌ llama.cpp not available
+2025-08-04 19:47:34,955 ERROR    src.ocr: Tesseract OCR test failed: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-04 19:47:34,955 ERROR    src.ocr: Please install Tesseract OCR:
+2025-08-04 19:47:34,955 ERROR    src.ocr: 1. Download from: https://github.com/UB-Mannheim/tesseract/wiki
+2025-08-04 19:47:34,955 ERROR    src.ocr: 2. Install with 'Add to PATH' option checked
+2025-08-04 19:47:34,955 ERROR    src.ocr: 3. Or run: python setup_tesseract.py
+2025-08-04 19:47:49,478 INFO     src.llm: LLM connection test successful with lm_studio_ci
+2025-08-04 19:47:51,546 INFO     src.llm: LM Studio connection successful
+2025-08-04 19:47:51,546 INFO     src.llm: Initialized LLM with provider: lm_studio
+2025-08-04 19:47:53,605 INFO     src.llm: LM Studio connection successful
+2025-08-04 19:47:53,606 INFO     src.llm: Initialized LLM with provider: lm_studio
+2025-08-04 19:47:55,662 INFO     src.llm: LM Studio connection successful
+2025-08-04 19:47:55,663 INFO     src.llm: Initialized LLM with provider: lm_studio
+2025-08-04 21:12:31,495 ERROR    src.ocr: Tesseract OCR test failed: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-04 21:12:31,496 ERROR    src.ocr: Please install Tesseract OCR:
+2025-08-04 21:12:31,496 ERROR    src.ocr: 1. Download from: https://github.com/UB-Mannheim/tesseract/wiki
+2025-08-04 21:12:31,496 ERROR    src.ocr: 2. Install with 'Add to PATH' option checked
+2025-08-04 21:12:31,496 ERROR    src.ocr: 3. Or run: python setup_tesseract.py
+2025-08-04 21:12:35,419 ERROR    src.llm: LM Studio API error: 404
+2025-08-04 21:12:35,419 ERROR    src.llm: LLM connection test failed - no response from lm_studio
+2025-08-04 21:12:35,431 ERROR    src.ocr: Tesseract OCR test failed: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-04 21:12:35,431 ERROR    src.ocr: Please install Tesseract OCR:
+2025-08-04 21:12:35,431 ERROR    src.ocr: 1. Download from: https://github.com/UB-Mannheim/tesseract/wiki
+2025-08-04 21:12:35,431 ERROR    src.ocr: 2. Install with 'Add to PATH' option checked
+2025-08-04 21:12:35,431 ERROR    src.ocr: 3. Or run: python setup_tesseract.py
+2025-08-04 21:12:38,405 ERROR    src.llm: LM Studio API error: 404
+2025-08-04 21:12:38,406 ERROR    src.llm: LLM connection test failed - no response from lm_studio
+2025-08-04 21:21:50,041 INFO     src.llm_detector: Detecting available LLM providers...
+2025-08-04 21:21:54,141 INFO     src.llm_detector: ❌ Ollama not available
+2025-08-04 21:21:58,194 INFO     src.llm_detector: ❌ LM Studio not available
+2025-08-04 21:22:02,283 INFO     src.llm_detector: ❌ LM Studio CI not available
+2025-08-04 21:22:06,332 INFO     src.llm_detector: ❌ llama.cpp not available
+2025-08-05 13:16:26,419 INFO     qdarkstyle: QSS file successfully loaded.
+2025-08-05 13:16:26,422 INFO     qdarkstyle: Found application patches to be applied.
+2025-08-05 13:16:30,941 WARNING  src.llm: Could not connect to LM Studio: HTTPConnectionPool(host='localhost', port=1234): Max retries exceeded with url: /v1/models (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002A4E3E2A490>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2025-08-05 13:16:30,941 INFO     src.llm: Initialized LLM with provider: lm_studio
+2025-08-05 13:16:32,708 INFO     src.llm_detector: Detecting available LLM providers...
+2025-08-05 13:16:36,818 INFO     src.llm_detector: ❌ Ollama not available
+2025-08-05 13:16:40,916 INFO     src.llm_detector: ❌ LM Studio not available
+2025-08-05 13:16:45,015 INFO     src.llm_detector: ❌ LM Studio CI not available
+2025-08-05 13:16:49,076 INFO     src.llm_detector: ❌ llama.cpp not available
+2025-08-05 13:16:49,148 ERROR    src.ocr: Tesseract OCR test failed: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-05 13:16:49,148 ERROR    src.ocr: Please install Tesseract OCR:
+2025-08-05 13:16:49,148 ERROR    src.ocr: 1. Download from: https://github.com/UB-Mannheim/tesseract/wiki
+2025-08-05 13:16:49,148 ERROR    src.ocr: 2. Install with 'Add to PATH' option checked
+2025-08-05 13:16:49,148 ERROR    src.ocr: 3. Or run: python setup_tesseract.py
+2025-08-05 13:16:53,197 ERROR    src.llm: LM Studio API call failed: HTTPConnectionPool(host='localhost', port=1234): Max retries exceeded with url: /v1/chat/completions (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002A4E3CE37D0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2025-08-05 13:16:53,199 ERROR    src.llm: LLM connection test failed - no response from lm_studio
+2025-08-05 13:28:06,185 INFO     src.llm_detector: Detecting available LLM providers...
+2025-08-05 13:28:10,289 INFO     src.llm_detector: ❌ Ollama not available
+2025-08-05 13:28:14,390 INFO     src.llm_detector: ❌ LM Studio not available
+2025-08-05 13:28:18,501 INFO     src.llm_detector: ❌ LM Studio CI not available
+2025-08-05 13:28:22,578 INFO     src.llm_detector: ❌ llama.cpp not available
+2025-08-05 13:28:57,561 INFO     src.llm_detector: Detecting available LLM providers...
+2025-08-05 13:29:01,671 INFO     src.llm_detector: ❌ Ollama not available
+2025-08-05 13:29:05,744 INFO     src.llm_detector: ❌ LM Studio not available
+2025-08-05 13:29:09,822 INFO     src.llm_detector: ❌ LM Studio CI not available
+2025-08-05 13:29:13,951 INFO     src.llm_detector: ❌ llama.cpp not available

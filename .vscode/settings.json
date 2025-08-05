@@ -1,0 +1,13 @@
+{
+    "cSpell.words": [
+        "colorama",
+        "dotenv",
+        "levelname",
+        "pyinstaller",
+        "pyqtgraph",
+        "pytesseract",
+        "qdarkstyle",
+        "safetensors",
+        "torchvision"
+    ]
+}

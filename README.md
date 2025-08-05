@@ -1,6 +1,6 @@
 # MerchantPulse Pipeline
 
-![Python](https://img.shields.io/badge/python-3.9+-blue.svg) ![License](https://img.shields.io/badge/license-Demo-green.svg) ![Platform](https://img.shields.io/badge/platform-Windows-lightgrey.svg) ![Offline](https://img.shields.io/badge/processing-100%25%20Offline-brightgreen.svg)
+![Python](https://img.shields.io/badge/python-3.9+-blue.svg) ![License](https://img.shields.io/badge/license-Demo-green.svg) ![Platform](https://img.shields.io/badge/platform-Windows-lightgrey.svg) ![Offline](https://img.shields.io/badge/processing-100%25%20Offline-brightgreen.svg) 
 
 A comprehensive, offline-first document processing pipeline with premium GUI for automated merchant submission review and CRM integration.
 

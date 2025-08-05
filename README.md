@@ -166,9 +166,9 @@ The application supports multiple local LLM providers:
 ollama serve
 
 # Available models
-ollama pull phi          # Lightweight, fast
-ollama pull mistral      # Balanced performance
-ollama pull llama2       # High accuracy
+ollama pull phi3:mini    # Lightweight, fast
+ollama pull mistral:7b    # Balanced performance
+ollama pull llama3:8b      # High accuracy
 ```
 
 #### LM Studio Alternative

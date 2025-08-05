@@ -4,6 +4,7 @@
 ![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515)
 
 ![Platform](https://img.shields.io/badge/platform-Windows-lightgrey.svg) ![Offline](https://img.shields.io/badge/processing-100%25%20Offline-brightgreen.svg)
+
 A comprehensive, offline-first document processing pipeline with premium GUI for automated merchant submission review and CRM integration.
 
 ## 📑 Table of Contents

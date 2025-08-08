@@ -94,18 +94,9 @@ A comprehensive, offline-first document processing pipeline with premium GUI for
 
 ## 🏃 Quick Start
 
-### Method 1: Python Script (Development)
+Run the application with Python:
 ```bash
 python main.py
-```
-
-### Method 2: Build EXE (Production)
-```bash
-# Build the executable
-pyinstaller build-merchant.spec
-
-# Find the EXE in dist/ folder
-./dist/MerchantProcessor.exe
 ```
 
 ## 📁 Project Structure
@@ -114,7 +105,6 @@ pyinstaller build-merchant.spec
 merchant_pipeline/
 ├── main.py                 # Application entry point
 ├── requirements.txt        # Python dependencies
-├── build-merchant.spec     # PyInstaller build configuration
 ├── README.md              # This file
 ├── src/                   # Source code
 │   ├── ocr.py            # OCR processing module
@@ -141,7 +131,7 @@ The `input/` directory contains guidelines for supported document types. For tes
 > Note: Sample documents will be included in future releases to help you test the system.
 
 ### GUI Application
-1. **Launch**: Run `python main.py` or double-click the EXE
+1. **Launch**: Run `python main.py`
 2. **Upload Documents**: Drag & drop files or click "Browse Files"
 3. **Process**: Click "🚀 Process Documents" and monitor progress
 4. **Review Results**: Check OCR preview, extracted data, and validation results
